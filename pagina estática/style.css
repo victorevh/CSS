@@ -1,0 +1,15 @@
+h1, h2 {
+    color: brown; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    color: rgb(0, 0, 0); font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body  {
+    background-image: url(files/universo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 10% 10%;
+    background-attachment: fixed;
+}
